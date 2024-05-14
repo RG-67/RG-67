@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rittik Ghosh</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 
 - 🔭 I’m currently working at **Gtech Web Solutions Pvt Ltd**
 
