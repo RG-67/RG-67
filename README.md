@@ -51,7 +51,7 @@ I'm a Software Engineer at **Gtech Web Solutions Pvt Ltd**, with a strong founda
 <h3 align="left">💼 Projects:</h3>
 
 - 🚀 [Memozen](https://github.com/rg-67/memozen) – Team collaboration app with notes, tasks, and real-time chat using React Native and Node.js.
-- 📱 [Android Task Manager](https://github.com/rg-67/your-repo) – Task management app with Firebase authentication and SQLite storage.
+- 📱 [Notes-App](https://github.com/RG-67/Notes-App) – Task management app with Firebase authentication and SQLite storage.
 
 ---
 
