@@ -62,7 +62,7 @@ I'm a Software Engineer at **Gtech Web Solutions Pvt Ltd**, with a strong founda
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rg-67&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rg-67&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="left">
