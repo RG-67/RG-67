@@ -50,8 +50,8 @@ I'm a Software Engineer at Gtech Web Solutions Pvt Ltd, with a strong foundation
 
 <h3 align="left">💼 Projects:</h3>
 
-- 🚀 [Memozen](https://github.com/rg-67/memozen) – Team collaboration app with notes, tasks, and real-time chat using React Native and Node.js.
 - 🍽️ [Culinary Kinetic](https://github.com/RG-67/CulinaryKinetic) – A Swiggy/Zomato-inspired Android food delivery demo featuring a modern UI built with **Jetpack Compose**, including restaurant discovery, menus, cart, orders, and payment screens.
+- 🚀 [Memozen](https://github.com/rg-67/memozen) – Team collaboration app with notes, tasks, and real-time chat using React Native and Node.js.
 
 ---
 
