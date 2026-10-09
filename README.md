@@ -7,10 +7,10 @@
 
 ---
 
-I'm a Software Engineer at **Gtech Web Solutions Pvt Ltd**, with a strong foundation in Android development and backend technologies. I'm currently diving deep into **React Native** to build powerful cross-platform mobile apps. I love solving real-world problems and collaborating on meaningful projects.
+I'm a Software Engineer at Gtech Web Solutions Pvt Ltd, with a strong foundation in Android development and backend technologies. I'm currently exploring Android Imaging Lab, focusing on camera technologies, image processing, and advanced Android imaging capabilities. I love solving real-world problems and collaborating on meaningful projects.
 
 - 🔭 Currently working at **Gtech Web Solutions Pvt Ltd**
-- 🌱 Currently learning **React Native**
+- 📸 Exploring **Android Imaging Lab**
 - 📫 Reach me at: [rittikghoshkolkata@gmail.com](mailto:rittikghoshkolkata@gmail.com)
 
 ---
@@ -51,7 +51,7 @@ I'm a Software Engineer at **Gtech Web Solutions Pvt Ltd**, with a strong founda
 <h3 align="left">💼 Projects:</h3>
 
 - 🚀 [Memozen](https://github.com/rg-67/memozen) – Team collaboration app with notes, tasks, and real-time chat using React Native and Node.js.
-- 📱 [Android Notes App](https://github.com/RG-67/Notes-App) – Feature-rich notes app built with **Kotlin**, using **Room Database**, **Dagger-Hilt**, **Firebase Cloud Messaging**, **Coroutines**, and **MVVM architecture**.
+- 🍽️ [Culinary Kinetic](https://github.com/RG-67/CulinaryKinetic) – A Swiggy/Zomato-inspired Android food delivery demo featuring a modern UI built with **Jetpack Compose**, including restaurant discovery, menus, cart, orders, and payment screens.
 
 ---
 
